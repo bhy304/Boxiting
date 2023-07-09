@@ -1,2 +1,1 @@
-짱짱
-
+console.log('Hello world')
